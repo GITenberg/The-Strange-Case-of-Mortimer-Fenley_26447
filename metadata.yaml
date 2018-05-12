@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26447#The-Strange-Case-of-Mortimer-Fenley
 gutenberg_issued: '2008-08-28'
 gutenberg_type: Text
 identifiers:
